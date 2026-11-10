@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from dark_vpn.dark_vpn import main
+raise SystemExit(main())
