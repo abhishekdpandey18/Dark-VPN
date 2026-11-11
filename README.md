@@ -64,7 +64,7 @@ sudo pacman -S openvpn python
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Dark-VPN.git
+git clone https://github.com/abhishekdpandey18/Dark-VPN.git
 cd Dark-VPN
 ```
 
